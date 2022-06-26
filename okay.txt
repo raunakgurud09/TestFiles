@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a okay text file
+=======
+this is another okay text
+>>>>>>> new-chapter
