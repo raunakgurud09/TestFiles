@@ -1,59 +1,59 @@
 Server
- - best practices
-    @design - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#versioning
-    @security - https://restfulapi.net/security-essentials/
- - imporving file structure 
-    @from freeCodeCamp - https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/
- - adding more configs
-    1.eslint
-    2.prettier config
-    3.documentation (swagger,postman)
-    4.find more
- - testing 
-    1.jest
-    2.raw test
-    3.cypress
+    - best practices
+        @design - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#versioning
+        @security - https://restfulapi.net/security-essentials/
+    - imporving file structure 
+        @from freeCodeCamp - https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/
+    - adding more configs
+        1.eslint
+        2.prettier config
+        3.documentation (swagger,postman)
+        4.find more
+    - testing 
+        1.jest
+        2.raw test
+        3.cypress
 
 MongoDB
- - searching & sorting
- - paging
- - recommendation 
-    1.through location
-    2.through likes and engament
+    - searching & sorting
+    - paging
+    - recommendation 
+        1.through location
+        2.through likes and engament
 
 MySQL
- - Learning how to config
- - basic querying 
- - optimizing the query
- - Learn advance relationships between diffrent models
- - recommendaiton
+    - Learning how to config
+    - basic querying 
+    - optimizing the query
+    - Learn advance relationships between diffrent models
+    - recommendaiton
 
 TypeScript
- - learn complete TypeScript
- - learn for typescript configs
+    - learn complete TypeScript
+    - learn for typescript configs
 
 use only ES6 (import export)
 
 CI\CD
- - using Github actions for complete process
- - using GitLab CI\CD
- - automating the process of  diffrent tasks
+    - using Github actions for complete process
+    - using GitLab CI\CD
+    - automating the process of  diffrent tasks
 
 Docker
- - learn complete docker through docs
- - learn YAML and (XML)
- - setup of database in docker integrated with the server
+    - learn complete docker through docs
+    - learn YAML and (XML)
+    - setup of database in docker integrated with the server
 
 Nginx
- - seting up nginx completly 
- - Reverse Proxy
- - load bancing 
+    - seting up nginx completly 
+    - Reverse Proxy
+    - load bancing 
     1.some algorithms
 
 Deployment
- - setup of AWS\Azure\digitalOcean\Linode\GoogleCloud
- - deploying real applicaiton
- - deploy on vercel
+    - setup of AWS\Azure\digitalOcean\Linode\GoogleCloud
+    - deploying real applicaiton
+    - deploy on vercel
 
 documentation
- - do serious documentation more and regular
+    - do serious documentation more and regular
