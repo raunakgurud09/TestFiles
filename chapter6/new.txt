@@ -5,7 +5,9 @@ understanding more things about (know more and more optimize)
     - javascript
 
 improve problem solving
-
+Working with  python for 
+    - automation
+    - numpy and pandas
 
 
 TypeScript
@@ -46,7 +48,7 @@ SQL
 
 Redis:
     -Learn what is cache and how to do it
-    
+
 
 Git
     - understanding core concepts 
