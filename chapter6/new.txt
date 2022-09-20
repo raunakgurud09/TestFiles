@@ -9,3 +9,4 @@ MySQL
  - Learning how to config
  - basic querying 
  - optimizing the query
+ - Learn advance relationships between diffrent models
