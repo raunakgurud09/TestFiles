@@ -36,6 +36,7 @@ CI\CD
 
 Docker
  - learn complete docker through docs
+ - learn YAML and (XML)
 
 Nginx
 
