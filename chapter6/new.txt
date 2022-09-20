@@ -11,7 +11,6 @@ General
         - automation
         - numpy and pandas
 
-
 TypeScript
     - learn complete TypeScript through documentation
     - learn for typescript configs
@@ -51,7 +50,6 @@ SQL
 Redis:
     -Learn what is cache and how to do it
 
-
 Git
     - understanding core concepts 
     - using branches for efficiency and cleanness
@@ -75,7 +73,6 @@ CI\CD
     - learn how to work on big projects 
     - surf through github find .yml(ci\cd) file 
     
-
 Docker
     - learn complete docker through docs
     - setup of database in docker integrated with the server
