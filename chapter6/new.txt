@@ -8,12 +8,16 @@ improve problem solving
 
 
 
+TypeScript
+    - learn complete TypeScript through documentation
+    - learn for typescript configs
+
 Server
     - best practices
         @design - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#versioning
         @security - https://restfulapi.net/security-essentials/
     - improving file structure 
-        @from freeCodeCamp - https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/
+        @freeCodeCamp - https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/
     - adding more configs
         1.eslint
         2.prettier config
@@ -31,17 +35,14 @@ MongoDB
         1.through location
         2.through likes and engagement
 
-MySQL
-    - Learning how to config
-    - basic querying 
-    - optimizing the query
-    - Learn advance relationships between different models
-    - recommendation
-
-TypeScript
-    - learn complete TypeScript
-    - learn for typescript configs
-
+SQL
+    @MySQL
+        - Learning how to config
+        - basic querying 
+        - optimizing the query
+        - Learn advance relationships between different models
+        - recommendation
+    @postgresql
 
 Git
     - understanding core concepts 
@@ -54,6 +55,7 @@ Git
         - deploy NPM and docker
         - github projects 
         - copilot
+        - github actions
 
     use @GitLab
         - use CI\CD 
@@ -62,7 +64,8 @@ Git
 CI\CD
     - using Github actions for complete process
     - using GitLab CI\CD
-    - automating the process of  different tasks
+    - learn how to work on big projects 
+    
 
 Docker
     - learn complete docker through docs
