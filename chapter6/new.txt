@@ -75,7 +75,7 @@ Nginx
     - setting up nginx completely 
     - Reverse Proxy
     - load balancing 
-    1.some algorithms
+        1.some algorithms
 
 Deployment
     - setup of AWS\Azure\digitalOcean\Linode\GoogleCloud
