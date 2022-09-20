@@ -44,6 +44,10 @@ SQL
         - recommendation
     @postgresql
 
+Redis:
+    -Learn what is cache and how to do it
+    
+
 Git
     - understanding core concepts 
     - using branches for efficiency and cleanness
@@ -87,4 +91,4 @@ Deployment
 documentation
     - do serious documentation more and regular
     @Garyvee 
-        - document >> creation
+        - document >> create
