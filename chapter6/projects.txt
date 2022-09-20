@@ -1,6 +1,6 @@
-here i would add project ideas
+Here i would add project ideas
 
-1. write twittes in code editor 
+1. write tweets in code editor 
     - set time when you want to publish
     - also write an hole artical at once and publish it as threads
 
