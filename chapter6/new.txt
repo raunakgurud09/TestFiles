@@ -4,3 +4,6 @@ MongoDB
  - recommendation 
     1.through location
     2.through likes and engament
+
+MySQL
+ - Learning how to config
