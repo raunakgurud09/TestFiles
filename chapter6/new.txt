@@ -30,6 +30,9 @@ MySQL
  - recommendaiton
 
 CI\CD
+ - using Github actions for complete process
+ - using GitLab CI\CD
+ - automating the process of  diffrent tasks
 
 Docker
 
