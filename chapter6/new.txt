@@ -14,7 +14,6 @@ Server
     2.raw test
     3.cypress
 
-
 MongoDB
  - searching & sorting
  - paging
@@ -44,8 +43,6 @@ Nginx
  - Reverse Proxy
  - load bancing 
     1.some algorithms
-
-
 
 Deployment
  - setup of AWS\Azure\digitalOcean\Linode\GoogleCloud
