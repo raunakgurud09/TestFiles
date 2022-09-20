@@ -36,3 +36,5 @@ Docker
 Nginx
 
 Deployment
+ - setup of AWS\Azure\digitalOcean\Linode\GoogleCloud
+ - deploying real applicaiton
