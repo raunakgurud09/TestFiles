@@ -1,5 +1,12 @@
 use only ES6 (import export)
-understanding nodejs / javascript
+learn YAML and XML
+understanding more things about (know more and more optimize)
+    - nodejs 
+    - javascript
+
+improve problem solving
+
+
 
 Server
     - best practices
@@ -59,7 +66,6 @@ CI\CD
 
 Docker
     - learn complete docker through docs
-    - learn YAML and (XML)
     - setup of database in docker integrated with the server
 
 Nginx
