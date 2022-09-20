@@ -7,3 +7,5 @@ MongoDB
 
 MySQL
  - Learning how to config
+ - basic querying 
+ - optimizing the query
