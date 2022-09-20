@@ -78,6 +78,9 @@ CI\CD
 Docker
     - learn complete docker through docs
     - setup of database in docker integrated with the server
+    - upload it in dockerHub
+    - pull from cloud
+    - understanding tech behind docker
 
 Nginx
     - setting up nginx completely 
@@ -86,14 +89,15 @@ Nginx
         1.some algorithms
 
 Deployment
+    - deploy on vercel(before heroku RIP)
     - setup an account AWS\Azure\digitalOcean\Linode\GoogleCloud
     - deploying real application
     - config DNS 
     - buy a domain name
-    - deploy on vercel  
 
 documentation
     - do serious documentation more and regular
+    - blogs | Journal
     @Garyvee 
         - document >> create
 
