@@ -6,6 +6,11 @@ Server
     2.prettier config
     3.documentation (swagger,postman)
     4.find more
+ - testing 
+    1.jest
+    2.raw test
+    3.cypress
+
 
 MongoDB
  - searching & sorting
