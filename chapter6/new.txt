@@ -2,7 +2,10 @@ Server
  - imporving file structure 
     @from freeCodeCamp - https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/
  - adding more configs
-    1.   
+    1.eslint
+    2.prettier config
+    3.documentation (swagger,postman)
+    4.find more
 
 MongoDB
  - searching & sorting
