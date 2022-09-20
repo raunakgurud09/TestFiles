@@ -35,6 +35,7 @@ CI\CD
  - automating the process of  diffrent tasks
 
 Docker
+ - learn complete docker through docs
 
 Nginx
 
