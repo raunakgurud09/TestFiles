@@ -54,3 +54,6 @@ Deployment
  - setup of AWS\Azure\digitalOcean\Linode\GoogleCloud
  - deploying real applicaiton
  - deploy on vercel
+
+documentation
+ - do serious documentation more and regular
