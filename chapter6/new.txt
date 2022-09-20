@@ -2,3 +2,5 @@ MongoDB
  - searching & sorting
  - paging
  - recommendation 
+    1.through location
+    2.through likes and engament
