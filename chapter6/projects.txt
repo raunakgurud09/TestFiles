@@ -2,5 +2,5 @@ here i would add project ideas
 
 1. write twittes in code editor 
     - set time when you want to publish
-    - 
+    - also write an hole artical at once and publish it as threads
 
