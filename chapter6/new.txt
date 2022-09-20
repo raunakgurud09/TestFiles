@@ -78,9 +78,13 @@ Nginx
         1.some algorithms
 
 Deployment
-    - setup of AWS\Azure\digitalOcean\Linode\GoogleCloud
+    - setup an account AWS\Azure\digitalOcean\Linode\GoogleCloud
     - deploying real application
+    - config DNS 
+    - buy a domain name
     - deploy on vercel  
 
 documentation
     - do serious documentation more and regular
+    @Garyvee 
+        - document >> creation
