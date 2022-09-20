@@ -1,14 +1,15 @@
-use only ES6 (import export)
-learn YAML and XML
-understanding more things about (know more and more optimize)
-    - nodejs 
-    - javascript
-
-Object oriented programming 
-improve problem solving
-Working with  python for 
-    - automation
-    - numpy and pandas
+General
+    - use only ES6 (import export)
+    - learn YAML and XML
+    - understanding more things about (know more and more optimize)
+        - nodejs 
+        - javascript
+    - Object oriented programming 
+    - comment on every line - (think your project used for 1000++ of users)
+    - improve problem solving
+    - Working with  python for 
+        - automation
+        - numpy and pandas
 
 
 TypeScript
