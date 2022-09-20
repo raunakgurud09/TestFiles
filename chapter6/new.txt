@@ -39,7 +39,11 @@ Docker
  - learn YAML and (XML)
 
 Nginx
+ - seting up nginx completly 
+ - 
+
 
 Deployment
  - setup of AWS\Azure\digitalOcean\Linode\GoogleCloud
  - deploying real applicaiton
+ - deploy on vercel
