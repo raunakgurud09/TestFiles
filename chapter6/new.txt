@@ -10,3 +10,4 @@ MySQL
  - basic querying 
  - optimizing the query
  - Learn advance relationships between diffrent models
+ - recommendaiton
