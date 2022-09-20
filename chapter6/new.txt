@@ -1,3 +1,6 @@
+use only ES6 (import export)
+understanding nodejs / javascript
+
 Server
     - best practices
         @design - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#versioning
@@ -32,7 +35,17 @@ TypeScript
     - learn complete TypeScript
     - learn for typescript configs
 
-use only ES6 (import export)
+
+Git
+    - understanding core concepts 
+    - using branches for efficiency and cleanness
+    - creating PR and merging 
+    - handling conflicts 
+
+    Use @Github
+        - copilot
+        - 
+    use @GitLab
 
 CI\CD
     - using Github actions for complete process
