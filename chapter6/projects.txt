@@ -2,5 +2,5 @@ Here i would add project ideas
 
 1. write tweets in code editor 
     - set time when you want to publish
-    - also write an hole artical at once and publish it as threads
+    - also write an hole article at once and publish it as threads
 

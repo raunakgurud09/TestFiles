@@ -2,7 +2,7 @@ Server
     - best practices
         @design - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#versioning
         @security - https://restfulapi.net/security-essentials/
-    - imporving file structure 
+    - improving file structure 
         @from freeCodeCamp - https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/
     - adding more configs
         1.eslint
@@ -19,14 +19,14 @@ MongoDB
     - paging
     - recommendation 
         1.through location
-        2.through likes and engament
+        2.through likes and engagement
 
 MySQL
     - Learning how to config
     - basic querying 
     - optimizing the query
-    - Learn advance relationships between diffrent models
-    - recommendaiton
+    - Learn advance relationships between different models
+    - recommendation
 
 TypeScript
     - learn complete TypeScript
@@ -37,7 +37,7 @@ use only ES6 (import export)
 CI\CD
     - using Github actions for complete process
     - using GitLab CI\CD
-    - automating the process of  diffrent tasks
+    - automating the process of  different tasks
 
 Docker
     - learn complete docker through docs
@@ -45,15 +45,15 @@ Docker
     - setup of database in docker integrated with the server
 
 Nginx
-    - seting up nginx completly 
+    - setting up nginx completely 
     - Reverse Proxy
-    - load bancing 
+    - load balancing 
     1.some algorithms
 
 Deployment
     - setup of AWS\Azure\digitalOcean\Linode\GoogleCloud
-    - deploying real applicaiton
-    - deploy on vercel
+    - deploying real application
+    - deploy on vercel  
 
 documentation
     - do serious documentation more and regular
