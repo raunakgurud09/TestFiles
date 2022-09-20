@@ -4,6 +4,7 @@ understanding more things about (know more and more optimize)
     - nodejs 
     - javascript
 
+Object oriented programming 
 improve problem solving
 Working with  python for 
     - automation
@@ -94,3 +95,9 @@ documentation
     - do serious documentation more and regular
     @Garyvee 
         - document >> create
+
+System design | architecture 
+    - learn more about the topic
+    - basic principles
+    - watch videos 
+        @Gaurav Sen - https://www.youtube.com/c/GauravSensei
