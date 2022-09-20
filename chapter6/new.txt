@@ -72,6 +72,7 @@ CI\CD
     - using Github actions for complete process
     - using GitLab CI\CD
     - learn how to work on big projects 
+    - surf through github find .yml(ci\cd) file 
     
 
 Docker
