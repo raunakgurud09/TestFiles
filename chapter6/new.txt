@@ -1,7 +1,7 @@
 Server
  - best practices
-    @ - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#versioning
-    @ - https://restfulapi.net/security-essentials/
+    @design - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#versioning
+    @security - https://restfulapi.net/security-essentials/
  - imporving file structure 
     @from freeCodeCamp - https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/
  - adding more configs
