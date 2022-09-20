@@ -40,7 +40,10 @@ Docker
 
 Nginx
  - seting up nginx completly 
- - 
+ - Reverse Proxy
+ - load bancing 
+    1.some algorithms
+    
 
 
 Deployment
