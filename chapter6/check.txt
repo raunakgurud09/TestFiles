@@ -1,0 +1,13 @@
+This is my Git hub profile - https://github.com/raunakgurud09
+projects
+  - sorting visualizer -  https://sorting-visualizer-mini-project.netlify.app/
+  - snake game - https://github.com/raunakgurud09/Snake-Game.git
+
+I am curious, dedicated, and Hardworking. I am skilled and qualified for the position and I am confident that I can bring a good work ethic.
+
+
+I have worked on intermediate level projects with best practices in mind 
+
+builded a full stack application on MERN stack with Typescript and deployment
+
+also worked on deployment with horizontal scaling in mind with Nginx(Reverse proxy ,Load balancer) and containerizing with docker
