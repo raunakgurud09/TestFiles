@@ -1,4 +1,6 @@
 Learn HOW to code for beginners
+web-development details 
+backend development
 file structure for backend codes
 
 
@@ -6,4 +8,5 @@ JWT refresh token access token
 
 
 authFlow
-mpm-cli
+mpm-cli 
+brief.ly
