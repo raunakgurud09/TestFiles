@@ -8,13 +8,13 @@ BACK END
         1.6 others
     2.FILE UPLOAD
         2.1 localStorage
-        2.2 clould storage (clouldnary)
-    3.VERFY MAIL 
+        2.2 cloud storage (cloudinary)
+    3.VERIFY MAIL 
         3.1 send email 
         3.2 3rd party software
         3.3 other
     4.AUTH WORKFLOW
-        4.1 every thing about athorization
+        4.1 every thing about authorization
         4.2 others
     5.STRIPE PAYMENT
 

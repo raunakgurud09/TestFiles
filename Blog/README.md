@@ -1,0 +1,3 @@
+# BLOG 
+## Ideas
+## Progress
