@@ -47,7 +47,7 @@ SQL
         - recommendation
     @postgresql
 
-Redis:
+Redis
     -Learn what is cache and how to do it
 
 Git
