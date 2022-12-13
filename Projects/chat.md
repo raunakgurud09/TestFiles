@@ -1,2 +1,2 @@
 # Chat application 
-This application will be implemented with websockets without any library
+This application will be implemented with websocket without any library
